@@ -1,16 +1,11 @@
 {
- "actualizado": "2026-10-01T09:46:10-06:00",
- "ok": true,
- "error": "",
- "duracion_s": 347,
- "claves": 2008,
- "piezas_global": 4625,
+ "actualizado": "2026-10-01T11:08:23-06:00",
+ "ok": false,
+ "error": "sucursal 1 sin descarga",
+ "duracion_s": 4023,
+ "claves": 2007,
+ "piezas_global": 4624,
  "sucursales": {
-  "1": {
-   "nombre": "MakMex cedis",
-   "claves": 1595,
-   "piezas": 2969
-  },
   "2": {
    "nombre": "Denmor",
    "claves": 475,
@@ -18,8 +13,8 @@
   },
   "3": {
    "nombre": "makmex CDMX",
-   "claves": 780,
-   "piezas": 1054
+   "claves": 779,
+   "piezas": 1053
   }
  },
  "fuente": "Nube SICAR (robot en Mac)",
