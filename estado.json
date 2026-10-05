@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T11:51:23-06:00",
+ "actualizado": "2026-10-05T12:12:16-06:00",
  "ok": true,
  "error": "",
- "duracion_s": 335,
+ "duracion_s": 345,
  "claves": 2039,
  "piezas_global": 4839,
  "sucursales": {
@@ -13,8 +13,8 @@
   },
   "2": {
    "nombre": "Denmor",
-   "claves": 475,
-   "piezas": 561
+   "claves": 476,
+   "piezas": 563
   },
   "3": {
    "nombre": "makmex CDMX",
