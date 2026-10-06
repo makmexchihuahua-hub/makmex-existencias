@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-06T10:51:31-06:00",
+ "actualizado": "2026-10-06T11:12:17-06:00",
  "ok": true,
  "error": "",
- "duracion_s": 338,
- "claves": 2052,
- "piezas_global": 4865,
+ "duracion_s": 339,
+ "claves": 2051,
+ "piezas_global": 4864,
  "sucursales": {
   "1": {
    "nombre": "MakMex cedis",
@@ -18,8 +18,8 @@
   },
   "3": {
    "nombre": "makmex CDMX",
-   "claves": 785,
-   "piezas": 1054
+   "claves": 784,
+   "piezas": 1053
   }
  },
  "fuente": "Nube SICAR (robot en Mac)",
