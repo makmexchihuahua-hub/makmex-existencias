@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-06T12:38:20-06:00",
+ "actualizado": "2026-10-06T14:09:27-06:00",
  "ok": true,
  "error": "",
- "duracion_s": 443,
+ "duracion_s": 477,
  "claves": 2051,
- "piezas_global": 4864,
+ "piezas_global": 4861,
  "sucursales": {
   "1": {
    "nombre": "MakMex cedis",
@@ -18,7 +18,7 @@
   },
   "3": {
    "nombre": "makmex CDMX",
-   "claves": 784,
+   "claves": 785,
    "piezas": 1053
   },
   "4": {
