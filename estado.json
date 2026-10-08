@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T22:14:18-06:00",
- "ok": true,
- "error": "",
- "duracion_s": 417,
+ "actualizado": "2026-10-07T22:51:58-06:00",
+ "ok": false,
+ "error": "sucursal 4 sin descarga",
+ "duracion_s": 1353,
  "claves": 2075,
  "piezas_global": 4924,
  "sucursales": {
@@ -20,11 +20,6 @@
    "nombre": "makmex CDMX",
    "claves": 807,
    "piezas": 1072
-  },
-  "4": {
-   "nombre": "handyman",
-   "claves": 0,
-   "piezas": 0
   }
  },
  "fuente": "Nube SICAR (robot en Mac)",
