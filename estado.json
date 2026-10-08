@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T18:52:51-06:00",
- "ok": true,
- "error": "",
- "duracion_s": 425,
+ "actualizado": "2026-10-07T19:35:31-06:00",
+ "ok": false,
+ "error": "sucursal 3 sin descarga",
+ "duracion_s": 1583,
  "claves": 2075,
  "piezas_global": 4924,
  "sucursales": {
@@ -15,11 +15,6 @@
    "nombre": "Denmor",
    "claves": 474,
    "piezas": 562
-  },
-  "3": {
-   "nombre": "makmex CDMX",
-   "claves": 807,
-   "piezas": 1072
   },
   "4": {
    "nombre": "handyman",
