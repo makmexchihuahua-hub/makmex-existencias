@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T14:36:27-06:00",
+ "actualizado": "2026-10-13T14:58:53-06:00",
  "ok": true,
  "error": "",
- "duracion_s": 723,
+ "duracion_s": 439,
  "claves": 2080,
  "piezas_global": 4967,
  "sucursales": {
@@ -23,8 +23,8 @@
   },
   "4": {
    "nombre": "handyman",
-   "claves": 0,
-   "piezas": 0
+   "claves": 140,
+   "piezas": 175
   }
  },
  "fuente": "Nube SICAR (robot en Mac)",
