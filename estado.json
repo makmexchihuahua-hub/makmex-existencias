@@ -1,20 +1,25 @@
 {
- "actualizado": "2026-10-13T15:36:51-06:00",
- "ok": false,
- "error": "sucursal 1 sin descarga",
- "duracion_s": 1371,
- "claves": 2079,
- "piezas_global": 4966,
+ "actualizado": "2026-10-13T15:48:44-06:00",
+ "ok": true,
+ "error": "Denmor sin reportar desde hace 5620 min; makmex CDMX sin reportar desde hace 125 min",
+ "duracion_s": 2,
+ "claves": 2069,
+ "piezas_global": 4865,
  "sucursales": {
+  "1": {
+   "nombre": "MakMex cedis",
+   "claves": 1624,
+   "piezas": 3072
+  },
   "2": {
    "nombre": "Denmor",
-   "claves": 474,
-   "piezas": 562
+   "claves": 477,
+   "piezas": 567
   },
   "3": {
    "nombre": "makmex CDMX",
-   "claves": 796,
-   "piezas": 1053
+   "claves": 794,
+   "piezas": 1051
   },
   "4": {
    "nombre": "handyman",
@@ -22,6 +27,6 @@
    "piezas": 175
   }
  },
- "fuente": "Nube SICAR (robot en Mac)",
- "version_script": "2026-09-28"
+ "fuente": "Base central (SICAR MySQL, lectores cada 2 min)",
+ "version_script": "central-2026-10-13"
 }
