@@ -1,11 +1,32 @@
 {
- "actualizado": "2026-10-14T01:29:38-06:00",
- "ok": false,
- "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
- "duracion_s": 905,
- "claves": 0,
- "piezas_global": 0,
- "sucursales": {},
- "fuente": "Nube SICAR (robot en Mac)",
- "version_script": "2026-09-28"
+ "actualizado": "2026-10-14T04:41:54-06:00",
+ "ok": true,
+ "error": "makmex CDMX sin reportar desde hace 537 min; handyman sin reportar desde hace 792 min; Denmor sin reportar desde hace 567 min",
+ "duracion_s": 3,
+ "claves": 2065,
+ "piezas_global": 4824,
+ "sucursales": {
+  "1": {
+   "nombre": "MakMex cedis",
+   "claves": 1624,
+   "piezas": 3072
+  },
+  "2": {
+   "nombre": "Denmor",
+   "claves": 458,
+   "piezas": 526
+  },
+  "3": {
+   "nombre": "makmex CDMX",
+   "claves": 794,
+   "piezas": 1051
+  },
+  "4": {
+   "nombre": "handyman",
+   "claves": 140,
+   "piezas": 175
+  }
+ },
+ "fuente": "Base central (SICAR MySQL, lectores cada 2 min)",
+ "version_script": "central-2026-10-13c"
 }
