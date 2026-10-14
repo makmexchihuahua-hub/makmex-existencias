@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T19:53:29-06:00",
+ "actualizado": "2026-10-13T19:58:33-06:00",
  "ok": true,
- "error": "handyman sin reportar desde hace 264 min; Denmor sin reportar desde hace 39 min",
- "duracion_s": 2,
+ "error": "handyman sin reportar desde hace 269 min; Denmor sin reportar desde hace 44 min",
+ "duracion_s": 3,
  "claves": 2065,
  "piezas_global": 4824,
  "sucursales": {
@@ -28,5 +28,5 @@
   }
  },
  "fuente": "Base central (SICAR MySQL, lectores cada 2 min)",
- "version_script": "central-2026-10-13"
+ "version_script": "central-2026-10-13b"
 }
