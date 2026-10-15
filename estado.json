@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-10-15T12:48:39-06:00",
+ "actualizado": "2026-10-15T12:53:45-06:00",
  "ok": true,
- "error": "makmex CDMX sin reportar desde hace 73 min",
- "duracion_s": 3,
- "claves": 2097,
- "piezas_global": 4930,
+ "error": "makmex CDMX sin reportar desde hace 78 min",
+ "duracion_s": 4,
+ "claves": 2096,
+ "piezas_global": 4928,
  "sucursales": {
   "1": {
    "nombre": "MakMex cedis",
-   "claves": 1589,
-   "piezas": 2935
+   "claves": 1588,
+   "piezas": 2933
   },
   "2": {
    "nombre": "Denmor",
