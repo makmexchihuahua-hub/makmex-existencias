@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-10-15T04:18:00-06:00",
+ "actualizado": "2026-10-15T11:40:36-06:00",
  "ok": true,
- "error": "handyman sin reportar desde hace 2209 min",
+ "error": "",
  "duracion_s": 3,
- "claves": 2056,
- "piezas_global": 4717,
+ "claves": 2098,
+ "piezas_global": 4934,
  "sucursales": {
   "1": {
    "nombre": "MakMex cedis",
-   "claves": 1593,
-   "piezas": 2962
+   "claves": 1591,
+   "piezas": 2939
   },
   "2": {
    "nombre": "Denmor",
-   "claves": 458,
-   "piezas": 526
+   "claves": 510,
+   "piezas": 578
   },
   "3": {
    "nombre": "makmex CDMX",
-   "claves": 796,
-   "piezas": 1054
+   "claves": 807,
+   "piezas": 1068
   },
   "4": {
    "nombre": "handyman",
-   "claves": 140,
-   "piezas": 175
+   "claves": 293,
+   "piezas": 349
   }
  },
  "fuente": "Base central (SICAR MySQL, lectores cada 2 min)",
